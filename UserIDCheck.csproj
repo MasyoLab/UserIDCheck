@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <ApplicationIcon />
+    <StartupObject />
+    <RootNamespace>MasyoLab</RootNamespace>
+    <Authors>MasyoLab</Authors>
+    <Company>MasyoLab</Company>
+  </PropertyGroup>
+
+</Project>
